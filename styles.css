@@ -1,0 +1,14 @@
+body {
+  background-image: repeating-linear-gradient(45deg, hotpink, limegreen 10%, cyan 20%);
+  background-size: 20px 20px;
+  font-family: 'Comic Sans MS', Impact, cursive;
+  color: lime;
+}
+
+.nineties-font {
+  font-family: 'Comic Sans MS', Impact, cursive;
+}
+
+.table-border {
+  border: 2px solid #00FFFF;
+}
